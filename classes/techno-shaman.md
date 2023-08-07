@@ -124,13 +124,13 @@ All technology has a spirit, some more restless than others. When machines malfu
 
 ### Spiritual Interface
 
-- **Description:** Firewalls and security systems are but challenges for most, but for the Techno-Shaman, they are spirits to be communed with. Instead of brute-forcing or hacking, the Shaman seeks permission, allowing for a non-hostile bypass of digital barriers.
+**Description:** Firewalls and security systems are but challenges for most, but for the Techno-Shaman, they are spirits to be communed with. Instead of brute-forcing or hacking, the Shaman seeks permission, allowing for a non-hostile bypass of digital barriers.
 
-- **Benefit:** When attempting to bypass a digital security measure, the Techno-Shaman can roll a `Wits + Mystic Tech` check.
+**Benefit:** When attempting to bypass a digital security measure, the Techno-Shaman can roll a `Wits + Mystic Tech` check.
 - Success grants access or bypasses the security without triggering alarms or defensive countermeasures.
 - A critical success might also grant insights or control over other connected systems.
 
-- **Restrictions**
+**Restrictions**
 - Requires a genuine intent; if the Techno-Shaman has malicious intentions, the spirit might become hostile.
 - The more advanced or complex the system, the harder it might be to persuade its spirit.
 
