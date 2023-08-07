@@ -89,34 +89,6 @@ Technicians often wear jumpsuits designed with multiple pockets for tools and co
 
 ---
 
-### Quantum Calibrator
-
-- **Description:** With advancements in technology, quantum systems have found their way into many ship systems and gadgets. Technicians possessing the Quantum Calibrator talent have an innate understanding of these intricate systems.
-  
-- **Benefit:** When working on quantum-based systems or devices, the technician can re-roll any failed Comtech or Heavy Machinery checks once per task. This enables them to make adjustments on the fly based on quantum fluctuations and readouts that others might miss.
-
-- **Restriction:** Can be used once per in-game day.
-
----
-
-### Echo Locator
-
-- **Description:** Technicians with this talent have developed a unique method to locate malfunctions. By sending out a range of frequencies and analyzing the echo, they can pinpoint issues that might be hidden to the naked eye or regular diagnostics.
-     
-- **Benefit:** When searching for hidden compartments, malfunctions, or electronic traps, the technician gains a bonus die to their roll. This can be invaluable in situations where a regular diagnostic might not catch an anomaly.
-     
-- **Restriction:** Requires the technician to have access to the ship or facility's main audio or communication system.
-
----
-
-### Nanotech Alchemist
-
-- **Description:** Understanding the world at a microscopic level, technicians with this talent can manipulate nanobots to assist in repairs and system overhauls.
-     
-- **Benefit:** If the technician has access to nanobots, they can deploy them to expedite repairs or fortify a system temporarily. This provides a +2 bonus to any Heavy Machinery checks for repairs and allows them to fix a system in half the usual time.
-     
-- **Restriction:** Using nanobots this way depletes their energy reserve. The technician will need to recharge or replace them after use, which can be a challenge depending on the location and situation.
-
 
 ### System Diagnosis
 
@@ -145,4 +117,35 @@ Technicians often wear jumpsuits designed with multiple pockets for tools and co
 - **Benefit:** If a primary system fails, the technician can attempt a Heavy Machinery check to switch to backup systems, preventing complete system shutdown.
      
 - **Restriction:** Backup systems can only be used for a limited time, usually half the duration of the primary system's operation time.
+
+---
+
+### Quantum Calibrator
+
+- **Description:** With advancements in technology, quantum systems have found their way into many ship systems and gadgets. Technicians possessing the Quantum Calibrator talent have an innate understanding of these intricate systems.
+  
+- **Benefit:** When working on quantum-based systems or devices, the technician can re-roll any failed Comtech or Heavy Machinery checks once per task. This enables them to make adjustments on the fly based on quantum fluctuations and readouts that others might miss.
+
+- **Restriction:** Can be used once per in-game day.
+
+---
+
+### Echo Locator
+
+- **Description:** Technicians with this talent have developed a unique method to locate malfunctions. By sending out a range of frequencies and analyzing the echo, they can pinpoint issues that might be hidden to the naked eye or regular diagnostics.
+     
+- **Benefit:** When searching for hidden compartments, malfunctions, or electronic traps, the technician gains a bonus die to their roll. This can be invaluable in situations where a regular diagnostic might not catch an anomaly.
+     
+- **Restriction:** Requires the technician to have access to the ship or facility's main audio or communication system.
+
+---
+
+### Nanotech Alchemist
+
+- **Description:** Understanding the world at a microscopic level, technicians with this talent can manipulate nanobots to assist in repairs and system overhauls.
+     
+- **Benefit:** If the technician has access to nanobots, they can deploy them to expedite repairs or fortify a system temporarily. This provides a +2 bonus to any Heavy Machinery checks for repairs and allows them to fix a system in half the usual time.
+     
+- **Restriction:** Using nanobots this way depletes their energy reserve. The technician will need to recharge or replace them after use, which can be a challenge depending on the location and situation.
+
 
