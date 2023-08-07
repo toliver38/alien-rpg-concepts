@@ -79,3 +79,70 @@ Technicians often wear jumpsuits designed with multiple pockets for tools and co
 6. **Protective Visor:** A visor with multiple magnification options and a light source, making it ideal for intricate tasks.
 
 *Roll a d6 and multiply the result by $100. With the total amount, choose 2 gear items from the list above that fit within your budget.*
+
+
+# Technician Skill and Career Talents - Alien RPG
+
+---
+
+## Skill Talents
+
+---
+
+### Quantum Calibrator
+
+- **Description:** With advancements in technology, quantum systems have found their way into many ship systems and gadgets. Technicians possessing the Quantum Calibrator talent have an innate understanding of these intricate systems.
+  
+- **Benefit:** When working on quantum-based systems or devices, the technician can re-roll any failed Comtech or Heavy Machinery checks once per task. This enables them to make adjustments on the fly based on quantum fluctuations and readouts that others might miss.
+
+- **Restriction:** Can be used once per in-game day.
+
+---
+
+### Echo Locator
+
+- **Description:** Technicians with this talent have developed a unique method to locate malfunctions. By sending out a range of frequencies and analyzing the echo, they can pinpoint issues that might be hidden to the naked eye or regular diagnostics.
+     
+- **Benefit:** When searching for hidden compartments, malfunctions, or electronic traps, the technician gains a bonus die to their roll. This can be invaluable in situations where a regular diagnostic might not catch an anomaly.
+     
+- **Restriction:** Requires the technician to have access to the ship or facility's main audio or communication system.
+
+---
+
+### Nanotech Alchemist
+
+- **Description:** Understanding the world at a microscopic level, technicians with this talent can manipulate nanobots to assist in repairs and system overhauls.
+     
+- **Benefit:** If the technician has access to nanobots, they can deploy them to expedite repairs or fortify a system temporarily. This provides a +2 bonus to any Heavy Machinery checks for repairs and allows them to fix a system in half the usual time.
+     
+- **Restriction:** Using nanobots this way depletes their energy reserve. The technician will need to recharge or replace them after use, which can be a challenge depending on the location and situation.
+
+
+### System Diagnosis
+
+- **Description:** Adept at diagnosing technical issues, technicians with this talent can quickly ascertain the cause of problems and recommend solutions.
+     
+- **Benefit:** When attempting to determine the cause of a technical malfunction, the technician can re-roll a failed Comtech check once.
+     
+- **Restriction:** Can only be used once per malfunctioning system.
+
+---
+
+### Circuit Whisperer
+
+- **Description:** A true master of electronic devices, these technicians can breathe life into even the most fried of circuits.
+     
+- **Benefit:** When attempting to repair electronic devices, the technician gains a +1 bonus die to their roll, increasing their chances of a successful repair.
+     
+- **Restriction:** The device must be repairable; if it's completely destroyed, this talent can't be used.
+
+---
+
+### Backup Protocols
+
+- **Description:** Recognizing the value of redundancies, these technicians are always prepared with a backup plan.
+     
+- **Benefit:** If a primary system fails, the technician can attempt a Heavy Machinery check to switch to backup systems, preventing complete system shutdown.
+     
+- **Restriction:** Backup systems can only be used for a limited time, usually half the duration of the primary system's operation time.
+
