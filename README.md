@@ -12,7 +12,7 @@ An off-the-books professional hired by corporations to discreetly "clean" up any
 
 ## [Escort](./escort.md)
 
-Trained personnel responsible for safeguarding VIPs, cargo, or critical information during interstellar travels, often facing unpredictable dangers.
+Specialists in humanity's indulgences, they face societal judgment while understanding deep human desires. Equally adept at self-protection, they challenge perceptions, contrasting their role with corporate betrayals.
 
 ---
 
