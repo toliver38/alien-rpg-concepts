@@ -84,3 +84,62 @@ Robes interwoven with circuitry patterns, mixed with traditional tribal symbols.
 6. **Holo-Mandala Projector:** Projects intricate mandalas that assist in tech-spiritual meditation and communion.
 
 *Roll a d6 and multiply the result by $100. With the total amount, choose 2 gear items from the list above that fit within your budget.*
+
+
+# Career Talents
+
+---
+
+## 1. Digital Divination
+
+---
+
+### **Description**
+The universe speaks through code, and for those who can understand its intricate patterns, revelations await. By entering a meditative trance and interfacing with a system's inner workings, the Techno-Shaman can discern hidden truths, impending threats, or even potential opportunities.
+
+### **Mechanics**
+- When interacting with a digital system or network, the Techno-Shaman can attempt to discern insights by rolling an `Empathy + Mystic Tech` check.
+- Success provides vague yet valuable insights related to the current situation or location. The Game Mother determines the specifics based on context.
+- A critical success can reveal a significant piece of information or a vision of an upcoming event.
+
+### **Restrictions**
+- Can be used once per in-game day.
+- Requires uninterrupted concentration for at least 10 minutes.
+
+---
+
+## 2. Machine Whisperer
+
+---
+
+### **Description**
+All technology has a spirit, some more restless than others. When machines malfunction or systems go haywire, the Machine Whisperer can commune with these spirits, soothing their distress and restoring balance.
+
+### **Mechanics**
+- When confronted with malfunctioning equipment or rebellious AI, the Techno-Shaman can roll an `Empathy + Mystic Tech` check to restore it.
+- Success calms the entity, fixing minor issues or temporarily suppressing major malfunctions.
+- A critical success can permanently fix the issue or form a bond with the tech entity, making it more cooperative in the future.
+
+### **Restrictions**
+- Only effective on technology with some form of processing capability.
+- Cannot be used on purely mechanical devices without electronic components.
+
+---
+
+## 3. Spiritual Interface
+
+---
+
+### **Description**
+Firewalls and security systems are but challenges for most, but for the Techno-Shaman, they are spirits to be communed with. Instead of brute-forcing or hacking, the Shaman seeks permission, allowing for a non-hostile bypass of digital barriers.
+
+### **Mechanics**
+- When attempting to bypass a digital security measure, the Techno-Shaman can roll a `Wits + Mystic Tech` check.
+- Success grants access or bypasses the security without triggering alarms or defensive countermeasures.
+- A critical success might also grant insights or control over other connected systems.
+
+### **Restrictions**
+- Requires a genuine intent; if the Techno-Shaman has malicious intentions, the spirit might become hostile.
+- The more advanced or complex the system, the harder it might be to persuade its spirit.
+
+
