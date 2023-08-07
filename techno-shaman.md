@@ -10,7 +10,7 @@ Within the vastness of space, there are those who understand technology not just
 
 ## Key Attributes
 
-- **Empathy (EMP):** A Techno-Shaman's ability to connect with technology on an emotional and spiritual level.
+- **Observation (OBS):** The ability to perceive and connect with technology on a more profound, almost spiritual level.
   
 - **Intelligence (INT):** Understanding the complex intertwining of tech and mysticism requires a sharp mind.
   
