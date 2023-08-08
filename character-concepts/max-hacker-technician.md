@@ -33,3 +33,11 @@ Max seeks to fully understand what Hyperdyne did to him and hopes to find a way 
 ### Twist for the DM:
 
 Max's neural patterns weren't just used for synth production. Hyperdyne Systems created an AI, codenamed "Boss Level", based on Max's consciousness. This AI was designed to protect Hyperdyne's digital assets, making it the ultimate cybersecurity system. As the crew's adventures continue, they'll come face-to-face with "Boss Level", forcing Max to literally confront himself in a digital showdown, where he must out-hack and outplay his own replicated consciousness.
+
+OR
+
+During Max's initial run-in with Hyperdyne Systems, he didn't just get trapped in their virtual maze; he tragically died during the process due to the intense neural feedback. Intrigued by his skills and not wanting to let such talent go to waste, Hyperdyne used their advanced technology to transfer Max's consciousness into a state-of-the-art synthetic body.
+
+This synth, designed to be the pinnacle of human emulation, was given all of Max's memories up to the moment of his death, making it believe it was the real Max "Pixel" Radley. The decade-long "coma" he remembers was actually the time it took for Hyperdyne to perfect this new form of consciousness transfer.
+
+As the crew uncovers more about Hyperdyne's operations, they'll stumble upon this truth, leading to a profound existential crisis for Max. He must grapple with his own identity, the nature of consciousness, and what it truly means to be "alive."
