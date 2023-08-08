@@ -10,12 +10,6 @@ An off-the-books professional hired by corporations to discreetly "clean" up any
 
 ---
 
-## [Escort](./classes/escort.md)
-
-Specialists in humanity's indulgences, they face societal judgment while understanding deep human desires. Equally adept at self-protection, they challenge perceptions, contrasting their role with corporate betrayals.
-
----
-
 ## [Esper](./classes/sper.md)
 
 An individual with latent psychic abilities, navigating a universe that might not be ready for their kind. Their powers can be a boon or a curse.
@@ -61,4 +55,10 @@ Skilled in the mechanics and electronics of the space age, they are essential cr
 ## [Techno-Shaman](./classes/techno-shaman.md)
 
 Blending ancient rituals with modern technology, they bridge the gap between the mystical and the mechanical, guiding their communities in both realms.
+
+---
+
+## [Escort](./classes/escort.md)
+
+Specialists in humanity's indulgences, they face societal judgment while understanding deep human desires. Equally adept at self-protection, they challenge perceptions, contrasting their role with corporate betrayals.
 
